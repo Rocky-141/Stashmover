@@ -60,3 +60,7 @@ tpa delay: time(seconds) to wait after sending tpa, recommended 17-20
 kill delay: time(seconds) to wait after running /kill, any greater then 7 should work
 
 note: 6b uses server swithcing thing that has 2 respawn gui's so a externall mod is recommeded if u have a end stash you want to move loot too https://modrinth.com/mod/auto-respawn
+
+
+
+--majority of project created by claude/copilot
