@@ -31,10 +31,9 @@ extreamly simple just clicks when it detects that you where sent message(trigger
 designed for an alt account, turn modual on configure your trigger word and point at the hinge of the trapdoor then leave it and use your main
 i recomend making your trigger unique as to not be accidentaly triggered by a dm spam bot
 i will add more features to this such as baritone pathing to the stasis
+
 AutoStashCycle:
-
-main reason i wanted an addon
-
+main reason i wanted an addon was for this modual
 allows user to assign chests/enderchest to steal/deposit runs tpa to a alt account i recommend using asteoide addon's auto macro as you can set it detect a trigger as "{player} wants to tp to you" and it then runs tpy, it will then wait and once tpd it will continue with the workflow by locating enderchest you assigned stealing and depositing before finnaly running /kill and repeating the cycle
 bed must be set at stash you found
 chest assign: (for both sets of positions)
