@@ -1,3 +1,6 @@
+
+
+
 requirements:
 meteor client 1.21.4 idk release
 minecraft 1.21.4
@@ -60,11 +63,9 @@ kill delay: time(seconds) to wait after running /kill, any greater then 7 should
 
 note: 6b uses server swithcing thing that has 2 respawn gui's so a externall mod is recommeded if u have a end stash you want to move loot too https://modrinth.com/mod/auto-respawn
 
-bugs:
-  -source code probly wont work if u compil it will fix
+any sugestion/bugs u can put in discord https://discord.gg/vyCKBgRY
 
-features to add:
-  -map duper module
+
 
 
 --majority of project created by claude/copilot
