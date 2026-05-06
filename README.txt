@@ -2,8 +2,8 @@
 
 
 requirements:
-meteor client 1.21.4 idk release
-minecraft 1.21.4
+meteor client 
+minecraft 
 baritone
 BARITONE PREFIX MUST BE "#" or coords WILL be leaked in chat without being displayed too you
 turn off minecraft focus by using f3+p
